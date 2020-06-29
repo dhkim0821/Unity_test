@@ -1,4 +1,4 @@
-Logs
+#Logs
 tags
 
 # Build results
@@ -8,7 +8,7 @@ x64/
 *_i.c
 *_p.c
 *.ilk
-*.meta
+#*.meta
 *.obj
 *.pch
 *.pdb
