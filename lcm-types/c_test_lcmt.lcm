@@ -1,0 +1,5 @@
+struct c_test_lcmt
+{
+  float body_pos[3];
+  float body_ori[3];
+}

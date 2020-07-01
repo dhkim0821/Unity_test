@@ -1,0 +1,4 @@
+/Users/donghyunkim/Repository/Unity_test/C_test_code/build/CMakeFiles/rebuild_cache.dir
+/Users/donghyunkim/Repository/Unity_test/C_test_code/build/CMakeFiles/edit_cache.dir
+/Users/donghyunkim/Repository/Unity_test/C_test_code/build/CMakeFiles/c_test.dir
+/Users/donghyunkim/Repository/Unity_test/C_test_code/build/CMakeFiles/lcm-java.dir
