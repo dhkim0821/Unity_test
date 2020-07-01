@@ -1,3 +1,14 @@
+lcm-types/java
+lcm-types/cpp/*
+lcm-types/csharp/*
+lcm-types/lcmtypes/*
+lcm-types/python/*
+lcm_data/lcm_log
+lcm_data/matlab_log
+lcm_data/matlab_log_archive
+lcm-types/file_list.txt
+
+
 #Logs
 tags
 
