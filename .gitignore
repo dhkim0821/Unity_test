@@ -1,6 +1,7 @@
 *.x86_64
 *.so
 *.debug
+.DS_Store
 
 build
 lcm-types/java
