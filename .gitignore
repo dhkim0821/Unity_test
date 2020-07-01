@@ -1,5 +1,6 @@
 *.x86_64
 *.so
+*.debug
 
 build
 lcm-types/java
